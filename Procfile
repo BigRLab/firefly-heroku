@@ -1,2 +1,2 @@
-web: firefly app.square -b 0.0.0.0:$PORT
+web: firefly app.square model.predict -b 0.0.0.0:$PORT
 
